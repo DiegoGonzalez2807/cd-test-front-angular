@@ -6,15 +6,9 @@ Repositorio con una aplicación angular configurada para su despliegue por medio
 
 Tekton permite independizar la aplicación de un servidor de integración como anteriormente se usaba, por ejemplo, Jenkins. Esto gracias a su modelo **Pipeline as Code** permitiendo personalizar todos los aspectos del despliegue, asimismo permite el seguimiento de las versiones de nuestra configuración con Git o Mercurial.
 
-## Configuración
-
-Para configurar Tekton en nuestra aplicación solo es necesario 3 archivos yaml, ubicados en la carpeta .tekton, y los scripts que se van a ejecutar en nuestro pipeline.
-
-![tekton folder](https://raw.githubusercontent.com/MGsus/Tekton_Front/master/.github/.tekton.png) ![scripts folder](https://raw.githubusercontent.com/MGsus/Tekton_Front/master/.github/scripts.png)
 
 ## Autores
 
-[Jesús Orlando Montoya Mejía](https://github.com/MGsus) <br/>
+
 Equipo IBM Cloud Tech Sales Colombia
 
-**Copyright 2020 IBM**
